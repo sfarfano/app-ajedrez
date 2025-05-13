@@ -1,0 +1,6 @@
+streamlit
+pandas
+fpdf
+yagmail
+python-dotenv
+openpyxl
